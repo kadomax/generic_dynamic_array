@@ -30,7 +30,6 @@ int main()
 {
 	float* a = NULL;
 	init(a);
-	grow(a);
 	push(a , 2.3);
 	push(a , 3.4);
 	push(a , 3.5);
